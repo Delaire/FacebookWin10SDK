@@ -42,7 +42,7 @@ namespace FacebookWindows10SDK_example
 
             // Get active session
             FBSession sess = FBSession.ActiveSession;
-            sess.FBAppId = Dailymotion.Core.Constants.FacebookAppId;
+            sess.FBAppId = Constants.FacebookAppId;
             sess.WinAppId = SID;
 
             //setting Permissions
