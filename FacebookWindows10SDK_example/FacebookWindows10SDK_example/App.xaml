@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="FacebookWindows10SDK_example.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FacebookWindows10SDK_example"
+    RequestedTheme="Light">
+
+</Application>
